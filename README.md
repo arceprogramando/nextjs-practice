@@ -16,3 +16,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - 🚧 Work in Progress: Usarlo para indicar que el commit contiene trabajo en progreso que no está listo para ser implementado.
 - 📚 student in progress : usarlo para indicar que es un elemento a estudiar a futuro
 - 📁 Added archives : Commit para publicaciones donde se agreguen archivos necesarios
+- 🔗 Connection: Úsalo para representar conexiones en variables de entorno o conexiones de base de datos.
